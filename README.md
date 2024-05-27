@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+    Fotos de lugares Brasileiros na década de 80 ou antes.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    Utilizei tanto o copilot como o craiyon para montar fotos de lugares.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+    Pesquisar lugar como Santos para mostrar como a IA pode ser Natty or not.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+    coloquei nesse local um foto montada pela craiyon após algumas tentativas . 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+  Acredito que para determinadas situações a IA generativa consegue atualmente se aproximar e ser o mais verosimel possível, mas ainda não tem uma ntarulaidade eminente do ser humano. 
 ```
 
 ### Exemplos e Insigths
